@@ -1,4 +1,4 @@
-name: render
+name: scrape
 on:
   workflow_dispatch:
 permissions:
